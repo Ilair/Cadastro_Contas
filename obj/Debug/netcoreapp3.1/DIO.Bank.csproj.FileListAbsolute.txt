@@ -1,0 +1,3 @@
+D:\Cursos\Digital_Innovation\Mrv\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+D:\Cursos\Digital_Innovation\Mrv\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+D:\Cursos\Digital_Innovation\Mrv\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
